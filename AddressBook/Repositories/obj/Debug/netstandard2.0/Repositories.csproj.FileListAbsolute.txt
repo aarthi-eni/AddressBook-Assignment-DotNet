@@ -1,0 +1,9 @@
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\bin\Debug\netstandard2.0\Repositories.deps.json
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfo.cs
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.dll
+C:\Users\AarthiRajendran\Office\BackEnd\AddressBook\Repositories\obj\Debug\netstandard2.0\Repositories.pdb
